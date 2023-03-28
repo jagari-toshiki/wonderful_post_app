@@ -34,6 +34,7 @@ group :development, :test do
   gem 'pry-byebug'
   gem 'pry-rails'
   gem 'pry-doc'
+  gem 'pg'
 end
 
 group :development do
